@@ -1,0 +1,14 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+</keymap>
